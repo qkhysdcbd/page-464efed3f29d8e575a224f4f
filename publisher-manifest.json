@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ed1bd51af74db0167abf4a04",
+  "owner": "qkhysdcbd",
+  "repo": "page-464efed3f29d8e575a224f4f",
+  "title": "Ayu",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "464efed3f29d8e575a224f4f",
+      "a": "Ayu",
+      "b": "",
+      "entity": "Ayu",
+      "brand": "Ayu",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cbe1c89a1817d74650d39676ab3031172827df5d56e6a538554166c04da756e3",
+      "content": {
+        "keyword1": "Ayu",
+        "keyword2": "",
+        "primary_entity": "Ayu",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Ayu 提供稳定高速的机场订阅与 VPN 梯子服务，覆盖多端客户端下载、流媒体解锁与游戏加速，访问 Ayu 官方网站即可完成套餐选择、订阅导入与节点配置。",
+          "AI_DESCRIPTION": "Ayu 提供稳定高速的机场订阅与 VPN 梯子服务，覆盖多端客户端下载、流媒体解锁与游戏加速，访问 Ayu 官方网站即可完成套餐选择、订阅导入与节点配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e6f2f7;line-height:1.7}a{color:#3ee0ea}a:hover{color:#9ff4f8}img,svg{display:none}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header,footer{background:#0b1d36}header{border-bottom:1px solid #163a5c}nav{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:14px 0}.brand{font-weight:700;font-size:1.35rem;color:#7ee8ef}nav ul{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px}nav a{color:#cfeaf0}main{padding-bottom:24px}h1{font-size:1.75rem;color:#fff;margin:22px 0 10px;line-height:1.35}h2{font-size:1.35rem;color:#7ee8ef;margin:8px 0 12px;border-left:4px solid #00c8d4;padding-left:10px}h3{font-size:1.12rem;color:#b8ecf0;margin:10px 0 8px}p,li{margin:0 0 10px}.lead{font-size:1.05rem;color:#d5eef2}.hero{padding:8px 0 18px}.stagger{display:flex;flex-wrap:wrap;align-items:stretch;gap:16px;margin:18px 0;padding:8px 0 20px;border-bottom:1px solid #1a3a5c}.stagger .panel{flex:1 1 280px;background:#0f2a4a;padding:18px;border-radius:8px;border:1px solid #1e4a72}.stagger.reverse{flex-direction:row-reverse}.kicker{display:inline-block;background:#123a58;color:#7ee8ef;font-size:.78rem;letter-spacing:.04em;padding:2px 8px;border-radius:4px;margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0 8px}.plan{flex:1 1 240px;background:#0f2a4a;padding:20px;border-radius:10px;border:1px solid #1e4a72}.plan.featured{border:2px solid #00c8d4}.price{font-size:1.5rem;color:#3ee0ea;font-weight:700}.annual{font-size:.9rem;color:#9fd8de;margin-bottom:10px}.plan ul{margin:8px 0 0 18px}.cta{display:inline-block;background:#00a8b5;color:#071422;font-weight:700;padding:10px 18px;border-radius:6px;margin:6px 8px 6px 0}.cta:hover{color:#071422}.steps ol{margin:0 0 0 20px}.note{background:#0d2744;border-left:3px solid #00c8d4;padding:10px 12px;margin:12px 0;border-radius:0 6px 6px 0}details{background:#0f2a4a;margin:8px 0;padding:12px 16px;border-radius:8px;border:1px solid #1e4a72}summary{font-weight:600;color:#7ee8ef}details p{margin:8px 0 0;color:#d5eef2}.ads{background:#0d2744;padding:16px;border:1px dashed #2a6a88;margin:22px 0;text-align:center;border-radius:8px}footer{padding:24px 0;font-size:.9rem;color:#9bb8c4;margin-top:12px}footer h2{font-size:1.05rem}.friends a{margin:0 12px 8px 0;display:inline-block}#sitemap ul{list-style:none;display:flex;flex-wrap:wrap;gap:8px 16px;margin:8px 0 16px}@media (max-width:720px){.stagger,.stagger.reverse{flex-direction:column}h1{font-size:1.48rem}nav{flex-direction:column;align-items:flex-start}}</style><header><div class=\"wrap\"><nav><a class=\"brand\" href=\"#top\">Ayu</a><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></div></header><main id=\"top\" class=\"wrap\"><section class=\"hero\" id=\"intro\"><h1>Ayu 机场官方网站</h1><p class=\"lead\">Ayu 是面向跨境办公、学术访问、流媒体与游戏加速的高速网络服务。本站是 Ayu 官网入口，提供机场订阅说明、VPN 加速器用法以及各平台客户端下载指引，帮助你把节点快速导入常用工具并稳定连接。</p><p>Ayu 以深色线路调度与专线优化为核心，基础版覆盖日常浏览与轻量流媒体，旗舰版强化原生解锁与 IPLC 游戏加速，团队版面向多设备与定制路由。所有套餐均支持常见订阅协议，导入后即可按延迟与负载选择节点。</p><p><a class=\"cta\" href=\"#plans\">查看套餐</a><a class=\"cta\" href=\"#guide\">开始配置</a><a class=\"cta\" href=\"#download\">客户端下载</a></p></section><section id=\"scenes\"><h2>使用场景</h2><p>Ayu 把「能连上」和「连得稳」拆成可执行的场景，而不是空泛承诺。以下四组场景对应不同流量与线路策略，便于按需求选套餐。</p><div class=\"stagger\"><div class=\"panel\"><span class=\"kicker\">办公与协作</span><h3>远程会议与代码仓库</h3><p>跨境视频会议、文档同步与 Git 仓库访问对抖动敏感。建议优先选择低负载亚洲节点，会议期间避免频繁切换；旗舰版与团队版的高带宽节点更适合持续上传。</p></div><div class=\"panel\"><span class=\"kicker\">内容访问</span><h3>流媒体与知识库</h3><p>基础版解锁常见影音平台的基础线路；旗舰版强调全节点原生流媒体策略，减少地区限制提示。学术站点、开发文档与软件源可走优化过的国际出口，降低超时。</p></div></div><div class=\"stagger reverse\"><div class=\"panel\"><span class=\"kicker\">娱乐与竞技</span><h3>游戏加速与实时语音</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟有明确要求的对战与语音场景。连接后请固定一条延迟稳定的线路，不要在对局中自动切换。</p></div><div class=\"panel\"><span class=\"kicker\">家庭与团队</span><h3>多设备同时在线</h3><p>基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线。路由器或中继客户端可把订阅分发给家里或工作室的多台终端，仍需遵守套餐设备上限。</p></div></div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按自然月计费，年付可锁定当前档位。流量为每月极速额度，周期结束按套餐重置。请以结算页展示为准，本页用于对照功能差异。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"cta\" href=\"#guide\">按此档配置</a></p></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"cta\" href=\"#guide\">推荐配置流程</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"cta\" href=\"#guide\">团队导入说明</a></p></article></div></section><section id=\"nodes\"><h2>节点与性能说明</h2><div class=\"stagger\"><div class=\"panel\"><h3>覆盖与线路类型</h3><p>Ayu 节点池包含香港、东京、新加坡、洛杉矶、伦敦等常用出口，普通线路适合网页与轻量视频，专线与高带宽节点面向游戏和持续传输。旗舰版与团队版可看到更多原生解锁与 VIP 入口。</p></div><div class=\"panel\"><h3>如何判断是否该换节点</h3><p>打开客户端延迟测试，优先选延迟低且抖动小的条目。若网页能开但视频卡顿，多半是出口拥堵，换同地区另一条即可。游戏请锁定 IPLC 或标注加速的条目，避免智能分流把对战流量打到普通国际线路。</p></div></div></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>本页把 Ayu 从开通到连上拆成固定步骤。按顺序做完，大多数客户端只需再选一条节点。配置是官网使用的核心路径，建议收藏本段。</p><div class=\"stagger\"><div class=\"panel\"><span class=\"kicker\">步骤 01</span><h3>确认套餐与设备数</h3><p>先对照同时在线台数：手机加电脑通常选基础版或旗舰版；工作室、宿舍或 brouter 分发选团队版。确认每月流量是否覆盖 4K 或大文件同步，不够再升级，不必一上来拉满。</p></div><div class=\"panel\"><span class=\"kicker\">步骤 02</span><h3>获取机场订阅</h3><p>在用户中心复制订阅链接（通用订阅或 Clash / Sing-Box 专属格式）。链接相当于节点清单的钥匙，不要发到公开群。若链接泄露，到官网重置订阅，旧链接会失效。</p></div></div><div class=\"stagger reverse\"><div class=\"panel\"><span class=\"kicker\">步骤 03</span><h3>安装对应客户端</h3><p>到各系统官方渠道下载客户端，不要使用来路不明的改装包。Windows 常用 v2rayN 或 Clash Verge；macOS 可用 Clash Meta 系或 Surge；iOS 用 Shadowrocket 或 Stash；Android 用 Clash Meta 或 v2rayNG。详细名单见下方下载区。</p></div><div class=\"panel\"><span class=\"kicker\">步骤 04</span><h3>导入并更新节点</h3><p>客户端选择「从 URL 导入」或「订阅」，粘贴 Ayu 订阅地址，保存后手动更新一次。看到地区分组即表示导入成功。团队版若发放子订阅，成员只导入自己的链接，避免互相挤占设备额度。</p></div></div><div class=\"stagger\"><div class=\"panel\"><span class=\"kicker\">步骤 05</span><h3>选择节点并开启系统代理</h3><p>先测延迟，再开启 TUN / 系统代理。浏览器访问被限制的站点验证；流媒体请选标注解锁的节点。游戏把加速进程加入规则，或全局走 IPLC。失败时关闭防火墙试验一次，再核对订阅是否过期。</p></div><div class=\"panel\"><span class=\"kicker\">步骤 06</span><h3>日常维护</h3><p>每周更新一次订阅即可同步新节点。流量将尽时客户端或用户中心会提示。更换设备先在旧设备断开，以免超过同时在线数。旗舰版工单通道用于线路异常，描述系统、客户端版本和错误原文即可。</p></div></div><div class=\"note\"><p>官方身份提示：请通过 Ayu 官方网站获取订阅与配置说明。品牌名称为 Ayu，不要在第三方代充或来路不明的「加速器安装包」中填写账号。</p></div></section><section id=\"download\"><h2>客户端下载与导入要点</h2><p>Ayu 提供机场订阅，不捆绑改装客户端。请先在各应用的官方网站或系统商店完成下载，再回到本页按配置流程导入。以下为常用组合，链接指向页面锚点便于对照，实际安装包以客户端官网为准。</p><div class=\"stagger\"><div class=\"panel\"><h3>桌面端</h3><p>Windows：v2rayN、Clash Verge。macOS：Clash Meta 系、Surge。导入后开启系统代理，浏览器无需再装扩展。公司电脑若无法装 TUN，可改用 HTTP 代理端口并在浏览器手动填写。</p><p><a class=\"cta\" href=\"#guide\">桌面导入步骤</a></p></div><div class=\"panel\"><h3>移动与路由</h3><p>iOS：Shadowrocket、Stash。Android：Clash Meta、v2rayNG。路由器：OpenClash 或同类订阅插件。手机建议关闭「省电限制后台」，以免订阅无法更新。路由器分发时仍计入套餐设备数。</p><p><a class=\"cta\" href=\"#faq\">移动端常见问题</a></p></div></div><p>下载完成后回到 <a href=\"#guide\">配置流程</a> 第三、四步。若客户端提示订阅为空，检查是否复制了完整 URL、是否使用了对应格式（Clash 与通用订阅不要混贴）。</p></section><section class=\"ads\" id=\"ads\"><h2>合作信息</h2><p>Ayu 官网展示位用于品牌合作与合规推广，不放置跳转不明的下载器。如需商务对接，请通过用户中心工单注明「官网合作」。</p><p><a href=\"#friends\">查看友情链接</a> · <a href=\"#sitemap\">站点地图</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Ayu 是什么？和普通 VPN 有何不同？</summary><p>Ayu 是提供机场订阅的网络加速服务。你在官网开通套餐后获得订阅链接，把链接导入 Clash、Shadowrocket 等客户端即可使用节点池。相比单一入口的 VPN 应用，机场模式可按地区、协议和负载自行选路，也便于同一订阅在多台设备间同步（仍受套餐台数限制）。</p></details><details><summary>如何从官网完成第一次连接？</summary><p>按配置流程：选套餐 → 复制订阅 → 安装正版客户端 → URL 导入并更新 → 选低延迟节点并打开系统代理。验证时先访问普通网页，再测流媒体或游戏。任何一步失败都不要跳步，回到对应步骤核对链接格式和代理开关。</p></details><details><summary>支持哪些客户端？必须用指定软件吗？</summary><p>不强制唯一软件。只要客户端支持常见订阅（Clash、SIP008 或同等），即可导入 Ayu。桌面推荐 Clash Verge / v2rayN，iOS 推荐 Shadowrocket / Stash，Android 推荐 Clash Meta / v2rayNG。请从各客户端官方渠道下载，本站只提供订阅与导入说明。</p></details><details><summary>流量如何计算？会不会突然用完？</summary><p>套餐写明每月极速流量：基础版 100GB、旗舰版 300GB、团队版 1000GB，周期重置。4K 播放、大文件同步和系统更新消耗明显，建议在客户端查看累计用量。接近上限时可暂停高清播放或升级档位，避免在关键会议中途中断。</p></details><details><summary>同时在线设备数怎么算？路由器算一台吗？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。手机、电脑、平板各计一台。若路由器作为代理网关，通常按「接入该网关并走代理的终端」累计，具体以用户中心在线列表为准。超过上限时，先断开闲置设备再连接新设备。</p></details><details><summary>能否解锁流媒体？游戏延迟如何优化？</summary><p>基础版提供基础流媒体线路；旗舰版强调全节点原生解锁，遇到地区限制时换到解锁分组。游戏请使用旗舰版 IPLC 或标注加速的节点，并在客户端为游戏进程设置规则，避免语音走一条、对战走另一条导致不同步。</p></details><details><summary>订阅无法更新或连上不能上网怎么办？</summary><p>先确认订阅未过期且链接完整，手动更新一次。仍失败则更换同地区节点，关闭再开启 TUN。公司网络可能拦截代理端口，可尝试备用端口或更换网络。系统时间误差过大会导致握手失败，请开启自动对时。旗舰版用户可通过优先工单提交客户端日志。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"sitemap\"><h2>站点地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#nodes\">节点与性能</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作信息</a></li><li><a href=\"#friends\">友情链接</a></li></ul></section><section id=\"friends\"><h2>友情链接</h2><p class=\"friends\"><a href=\"#download\">客户端说明</a><a href=\"#guide\">订阅导入</a><a href=\"#plans\">套餐对照</a><a href=\"#faq\">帮助中心</a><a href=\"#top\">返回顶部</a></p></section><p>Ayu 官方网站 · 机场订阅与 VPN 加速器服务说明。内容用于帮助用户完成客户端下载与配置，不构成对第三方应用的担保。</p><p><a href=\"#top\">Ayu</a></p></div></footer>",
+          "hash": "708dd2a234784e6d77b7f2f008400dcbb420b510f0af6d0ae75c6f764b0e8bae",
+          "seo": {
+            "title": "Ayu官网 | 机场订阅 VPN 加速器与客户端官方下载",
+            "keywords": "Ayu,Ayu机场,Ayu VPN,机场订阅,VPN加速器,梯子,网络加速,客户端下载,官网下载,Clash,IPLC,流媒体解锁",
+            "description": "Ayu 提供稳定高速的机场订阅与 VPN 梯子服务，覆盖多端客户端下载、流媒体解锁与游戏加速，访问 Ayu 官方网站即可完成套餐选择、订阅导入与节点配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "idaoyuan.cn",
+    "host": "p-c0570e357f.idaoyuan.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "idaoyuan.cn",
+      "url": "https://idaoyuan.cn/",
+      "label": "饿了么(Element)",
+      "apex": "idaoyuan.cn",
+      "kind": null,
+      "identity": "vrwkasw/page-3ea27cbf5576c11c868c7c22"
+    },
+    {
+      "host": "centromere.cn",
+      "url": "https://centromere.cn/",
+      "label": "Ayu",
+      "apex": "centromere.cn",
+      "kind": null,
+      "identity": "jxedmwqn/page-ce5154a741c768b4daea137f"
+    },
+    {
+      "host": "fokir.cn",
+      "url": "https://fokir.cn/",
+      "label": "Ayu",
+      "apex": "fokir.cn",
+      "kind": null,
+      "identity": "rrwvhebydh/page-1c31e3769c0d2d8c3e9d64e7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f82b7f49088a6032bd24cdbbe871feb1a72d47fb9e592713b792adc2e7e82f17",
+    "sitemap.xml": "0b1b69c077463d6a5017b0a02210e61b42d44361a0b3feea7c0be0a5d8d80699",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bf40f3badef7d7f50b29bbee2bb869a7d5dfefe5af582f157b0713f67396fee3",
+    "robots.txt": "106ae5f0bf1c5096d2b00752bb7a508a40330fe9bda237abc1a01b5deae62103",
+    "9f37edc9d800175cae4229083abe0fcd.txt": "2befd5f12afa53b2313a19c5de71dc495d4c49b153517cbf42354c274d2923a4"
+  },
+  "revision": "8dd4b3becd87e3d66fc470fcec5113efaa78f14d7aad35438d85463430cb22b1"
+}
